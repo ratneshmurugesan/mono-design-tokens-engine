@@ -1,0 +1,9 @@
+{
+  "name": "mono-design-tokens-engine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ratneshmurugesan/mono-design-tokens-engine.git",
+  "author": "ratneshmurugesan <Ratnesh.one@gmail.com>",
+  "license": "MIT",
+  "private": true
+}

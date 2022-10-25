@@ -1,0 +1,9 @@
+{
+    "asset": {
+        "icon": {
+            "lightning_ring": {
+                "value": "assets/icons/lightning_ring.svg"
+            }
+        }
+    }
+}

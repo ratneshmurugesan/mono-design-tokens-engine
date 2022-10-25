@@ -1,0 +1,9 @@
+{
+    "asset": {
+        "font": {
+            "roboto": {
+                "value": "assets/fonts/Roboto-Regular.ttf"
+            }
+        }
+    }
+}

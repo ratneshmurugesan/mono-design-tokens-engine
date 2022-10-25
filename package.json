@@ -7,12 +7,13 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "build": "style-dictionary build",
+    "build": "style-dictionary build --config ./sd.build.config.js",
     "clean": "rm -rf build",
-    "watch": "npm run build && chokidar \"tokens/**/*.(json|yaml)\" -c \"npm run build\""
+    "watch": "npm run build && chokidar \"tokens/**/*.(json|yaml)\" \"configs/**\" \"sd.build.config.js\" -c \"npm run build\""
   },
   "devDependencies": {
     "chokidar-cli": "^3.0.0",
-    "style-dictionary": "^3.7.1"
+    "style-dictionary": "^3.7.1",
+    "yaml": "^2.1.3"
   }
 }

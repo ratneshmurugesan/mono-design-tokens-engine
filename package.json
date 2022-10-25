@@ -9,7 +9,7 @@
   "scripts": {
     "build": "npm run clean && style-dictionary build --config ./sd.build.config.js",
     "clean": "rm -rf build",
-    "watch": "npm run clean && npm run build && chokidar \"tokens/**/*.(json|yaml)\" \"configs/**\" \"sd.build.config.js\" -c \"npm run build\""
+    "watch": "npm run clean && npm run build && chokidar \"src/tokens/**/*.(json|yaml)\" \"src/configs/**\" \"sd.build.config.js\" -c \"npm run build\""
   },
   "devDependencies": {
     "chokidar-cli": "^3.0.0",

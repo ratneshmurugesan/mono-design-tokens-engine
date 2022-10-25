@@ -9,12 +9,12 @@ const {
   // html,
   asset_scss,
   asset_json,
-} = require("./configs");
+} = require("./src/configs");
 
 console.log({ StyleDictionaryPackage });
 
 module.exports = {
-  source: [`tokens/**/*.json`, `tokens/**/*.yaml`],
+  source: [`src/tokens/**/*.json`, `src/tokens/**/*.yaml`],
   platforms: {
     scss,
     json,

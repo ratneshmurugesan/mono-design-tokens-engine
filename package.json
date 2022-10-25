@@ -5,5 +5,14 @@
   "repository": "https://github.com/ratneshmurugesan/mono-design-tokens-engine.git",
   "author": "ratneshmurugesan <Ratnesh.one@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "scripts": {
+    "build": "style-dictionary build",
+    "clean": "rm -rf build",
+    "watch": "npm run build && chokidar \"tokens/**/*.(json|yaml)\" -c \"npm run build\""
+  },
+  "devDependencies": {
+    "chokidar-cli": "^3.0.0",
+    "style-dictionary": "^3.7.1"
+  }
 }

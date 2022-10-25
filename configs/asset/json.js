@@ -35,4 +35,4 @@ const json = {
   ],
 };
 
-module.exports = { json };
+module.exports = json;

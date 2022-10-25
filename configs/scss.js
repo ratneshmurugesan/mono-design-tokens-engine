@@ -14,4 +14,4 @@ const scss = {
   ],
 };
 
-module.exports = { scss };
+module.exports = scss;

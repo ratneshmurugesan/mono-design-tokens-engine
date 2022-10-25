@@ -1,10 +1,15 @@
 const StyleDictionaryPackage = require("style-dictionary");
 
-const { scss } = require("./configs/scss");
-const { json } = require("./configs/json");
-
-const { json: assetJson } = require("./configs/asset/json");
-const { scss: assetScss } = require("./configs/asset/scss");
+const {
+  scss,
+  json,
+  js,
+  // ts,
+  // web,
+  // html,
+  asset_scss,
+  asset_json,
+} = require("./configs");
 
 console.log({ StyleDictionaryPackage });
 
@@ -13,7 +18,11 @@ module.exports = {
   platforms: {
     scss,
     json,
-    "assets/embed/scss": assetScss,
-    "assets/embed/json": assetJson,
+    js,
+    // ts,
+    // web,
+    // html,
+    "assets/embed/scss": asset_scss,
+    "assets/embed/json": asset_json,
   },
 };

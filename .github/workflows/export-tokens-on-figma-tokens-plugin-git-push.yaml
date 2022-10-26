@@ -9,13 +9,11 @@ jobs:
       - uses: actions/checkout@v1
       - name: Install Node Dependencies
         run: yarn
-        with: 
-          node-version: '16'
       - name: Build style-dictionary
         uses: stefanzweifel/git-auto-commit-action@v4
-        run: yarn run build
-      - name: Commit generated platform deliverables
-        uses: stefanzweifel/git-auto-commit-action@v4
-        id: "auto-commit-action"
-        with:
-          commit_message: Update platform deliverables
+      #   run: yarn run build
+      # - name: Commit generated platform deliverables
+      #   uses: stefanzweifel/git-auto-commit-action@v4
+      #   id: "auto-commit-action"
+      #   with:
+      #     commit_message: Update platform deliverables

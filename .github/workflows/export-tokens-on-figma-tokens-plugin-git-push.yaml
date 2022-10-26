@@ -1,8 +1,6 @@
 name: Auto generate tokens on figma-tokens-plugin-git-push
 on: 
-  push:
-    paths:
-      - "src"
+  push
 
 jobs:
   generate_tokens:

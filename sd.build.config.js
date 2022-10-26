@@ -14,7 +14,7 @@ const {
 console.log({ StyleDictionaryPackage });
 
 module.exports = {
-  source: [`src/tokens/*.json`],
+  source: [`src/tokens/**/*.json`, `src/tokens/**/*.yaml`],
   platforms: {
     scss,
     json,

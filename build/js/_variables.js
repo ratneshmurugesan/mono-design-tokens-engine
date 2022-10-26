@@ -1,9 +1,9 @@
 /**
  * Do not edit directly
- * Generated on Wed, 26 Oct 2022 15:33:24 GMT
+ * Generated on Wed, 26 Oct 2022 15:40:33 GMT
  */
 
-export const ASSET_FONT_ROBOTO = "assets/fonts/Roboto-Regular.ttf";
+export const ASSET_FONT_ROBOTO = "assets/fonts/OpenSans-Regular.ttf";
 export const ASSET_ICON_LIGHTNING_RING = "assets/icons/lightning_ring.svg";
 export const ASSET_IMAGE_RATNESH_MURUGESAN_LOGOS_WHITE = "assets/images/ratnesh-murugesan-logos_white.png";
 export const ASSET_IMAGE_RATNESH_MURUGESAN_LOGOS_TRANSPARENT = "assets/images/ratnesh-murugesan-logos_transparent.png";

@@ -4,7 +4,7 @@ const scss = {
   files: [
     {
       destination: "_icons.scss",
-      format: "scss/icons",
+      format: "scss/variables",
       filter: {
         attributes: {
           category: "asset",

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 25 Oct 2022 18:18:41 GMT
+ * Generated on Wed, 26 Oct 2022 13:55:37 GMT
  */
 
 export const ASSET_FONT_ROBOTO = "assets/fonts/Roboto-Regular.ttf";

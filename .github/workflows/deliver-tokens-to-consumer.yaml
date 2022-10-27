@@ -1,9 +1,7 @@
 name: Deliver Tokens To Consumer
 
 on:
-  push:
-    paths:	
-      - 'build/**'
+  push
 
       
 jobs:

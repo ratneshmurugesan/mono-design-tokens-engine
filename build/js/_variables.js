@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 26 Oct 2022 18:11:43 GMT
+ * Generated on Thu, 27 Oct 2022 05:11:49 GMT
  */
 
 export const ASSET_FONT_ROBOTO = "assets/fonts/OpenSans-Regular.ttf";

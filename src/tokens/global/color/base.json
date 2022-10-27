@@ -22,21 +22,20 @@
         "value": "#00FF00"
       }
     },
-    "primary": {
-      "value": "{color.brand.primary.value}"
-    },
-    "secondary": {
-      "value": "{color.brand.secondary.value}"
-    },
-    "action": {
-      "primary": {
-        "value": "{color.primary.value}"
-      },
-      "secondary": {
-        "value": "{color.secondary.value}"
-      },
-      "tertiary": {
-        "value": "{color.base.gray.medium.value}"
+    "background": {
+      "page": {
+        "primary": {
+          "value": "rgba(152, 94, 255, 1)",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "rgba(0, 179, 166, 1)",
+          "type": "color"
+        },
+        "error": {
+          "value": "rgba(176, 0, 32, 1)",
+          "type": "color"
+        }
       }
     }
   }

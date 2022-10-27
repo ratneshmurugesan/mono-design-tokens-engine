@@ -1,6 +1,13 @@
 const json = {
   transformGroup: "js",
-  transforms: ["attribute/cti", "name/cti/snake"],
+  transforms: [
+    "attribute/cti",
+    "name/cti/snake",
+    "time/seconds",
+    "content/icon",
+    "size/rem",
+    "color/hsl",
+  ],
   buildPath: "build/json/",
   files: [
     {

@@ -16,7 +16,7 @@ jobs:
             # Set the secret in the "src" repository
             personal_token: ${{ secrets.MONO_DESIGN_TOKENS_ENGINE_API_TOKEN }}
             # This is the branch that has the code for this article
-            src_branch: mono-design-tokens-engine
+            src_branch: master
             src_path: build/json/_variables.json
             dst_owner: ratneshmurugesan
             dst_repo_name: mono-universe

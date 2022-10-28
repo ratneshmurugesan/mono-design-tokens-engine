@@ -7,6 +7,7 @@ const json = {
     "content/icon",
     "size/rem",
     "color/hsl",
+    "asset/base64",
   ],
   buildPath: "build/json/",
   files: [

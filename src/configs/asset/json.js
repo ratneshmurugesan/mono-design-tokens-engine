@@ -1,7 +1,7 @@
 const personal_brand_name = "ratnesh-mono";
 
 const json = {
-  transforms: ["attribute/cti", "name/cti/kebab", "asset/base64"],
+  transforms: ["attribute/cti", "name/cti/snake", "asset/base64"],
   buildPath: "build/json/tokens/",
   prefix: personal_brand_name,
   files: [

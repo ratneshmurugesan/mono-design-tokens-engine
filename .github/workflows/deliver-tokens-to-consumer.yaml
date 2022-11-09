@@ -1,8 +1,7 @@
 name: Deliver Tokens To Consumer
 
 on:
-  push
-
+  [push]
       
 jobs:
   deliver_to_mono_universe:
@@ -24,4 +23,4 @@ jobs:
             dst_path: "libs/frontend/shared/tokens"
             username: ratneshmurugesan
             email: ratnesh.one@gmail.com
-            commit_message: Update platform deliverable
+            commit_message: Update design tokens by mono-design-tokens-engine

@@ -1,0 +1,9 @@
+{
+    "asset": {
+        "sound": {
+            "button-click": {
+                "value": "assets/sounds/ui-click.mp3"
+            }
+        }
+    }
+}

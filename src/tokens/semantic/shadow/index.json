@@ -1,0 +1,14 @@
+{
+    "semantic": {
+        "shadow": {
+            "floating": {
+                "idle": {
+                    "value": "{core.shadow.20.value}"
+                },
+                "pressed": {
+                    "value": "{core.shadow.10.value}"
+                }
+            }
+        }
+    }
+}

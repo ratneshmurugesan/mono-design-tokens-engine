@@ -17,11 +17,11 @@ jobs:
             personal_token: ${{ secrets.MONO_DESIGN_TOKENS_ENGINE_API_TOKEN }}
             # This is the branch that has the code for this article
             src_branch: master
-            src_path: build/json/_variables.json
+            src_path: build/json/tokens
             dst_owner: ratneshmurugesan
             dst_repo_name: mono-universe
             dst_branch: develop
-            dst_path: libs/design-system/shared/_variables.json
+            dst_path: "libs/frontend/shared/tokens"
             username: ratneshmurugesan
             email: ratnesh.one@gmail.com
             commit_message: Update platform deliverable

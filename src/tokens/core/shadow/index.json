@@ -1,0 +1,12 @@
+{
+    "core": {
+        "shadow": {
+            "10": {
+                "value": "-4.08px -4.08px 12.25px {core.color.white.10.value}, 6.125px 6.125px 12.25px rgba(174, 174, 192, 0.4), inset 0px 0px 0px 1px rgba(255, 255, 255, 0.2)"
+            },
+            "20": {
+                "value": "inset -4.08px -4.08px 4.08px rgba(255, 255, 255, 0.7), inset 6.125px 6.125px 4.08px rgba(174, 174, 192, 0.2)"
+            }
+        }
+    }
+}

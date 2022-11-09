@@ -1,0 +1,40 @@
+{
+    "component": {
+        "button": {
+            "text": {
+                "color": {
+                    "idle": {
+                        "value": "{semantic.color.text.primary.value}"
+                    }
+                }
+            },
+            "background": {
+                "color": {
+                    "idle": {
+                        "value": "{semantic.color.background.primary.value}"
+                    }
+                }
+            },
+            "border": {
+                "color": {
+                    "idle": {
+                        "value": "{semantic.color.border.primary.value}"
+                    }
+                }
+            },
+            "shadow": {
+                "idle": {
+                    "value": "{semantic.shadow.floating.idle.value}"
+                },
+                "pressed": {
+                    "value": "{semantic.shadow.floating.pressed.value}"
+                }
+            },
+            "scale": {
+                "pressed": {
+                    "value": "{semantic.scale.primary.value}"
+                }
+            }
+        }
+    }
+}

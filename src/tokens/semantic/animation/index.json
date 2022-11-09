@@ -1,0 +1,30 @@
+{
+    "semantic": {
+        "animation": {
+            "standard": {
+                "productive": {
+                    "value": "{core.animation.10.value}"
+                },
+                "expressive": {
+                    "value": "{core.animation.20.value}"
+                }
+            },
+            "entrance": {
+                "productive": {
+                    "value": "{core.animation.30.value}"
+                },
+                "expressive": {
+                    "value": "{core.animation.40.value}"
+                }
+            },
+            "exit": {
+                "productive": {
+                    "value": "{core.animation.50.value}"
+                },
+                "expressive": {
+                    "value": "{core.animation.60.value}"
+                }
+            }
+        }
+    }
+}

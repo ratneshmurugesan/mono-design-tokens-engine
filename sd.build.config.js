@@ -1,27 +1,17 @@
 const StyleDictionaryPackage = require("style-dictionary");
 
-const {
-  // scss,
-  // js,
-  // ts,
-  // web,
-  // html,
-  // asset_scss,
-  json,
-  asset_json,
-} = require("./src/configs");
+const { json, asset_json } = require("./src/configs");
 
-console.log({ StyleDictionaryPackage });
+// console.log({ StyleDictionaryPackage });
 
 module.exports = {
-  source: [`src/tokens/**/*.json`, `src/tokens/**/*.yaml`],
+  source: [
+    `src/tokens/core/**/*.json`,
+    `src/tokens/semantic/**/*.json`,
+    `src/tokens/component/**/*.json`,
+    `src/tokens/assets/*.json`,
+  ],
   platforms: {
-    // scss,
-    // js,
-    // ts,
-    // web,
-    // html,
-    // "assets/embed/scss": asset_scss,
     json,
     "assets/embed/json": asset_json,
   },

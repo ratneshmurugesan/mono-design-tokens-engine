@@ -1,0 +1,46 @@
+{
+    "core": {
+        "size": {
+            "10": {
+                "value": "0.5rem",
+                "comment": "equal to 8px"
+            },
+            "20": {
+                "value": "0.75rem",
+                "comment": "equal to 12px"
+            },
+            "30": {
+                "value": "0.875rem",
+                "comment": "equal to 14px"
+            },
+            "40": {
+                "value": "1rem",
+                "comment": "equal to 16px"
+            },
+            "50": {
+                "value": "1.25rem",
+                "comment": "equal to 20px"
+            },
+            "60": {
+                "value": "1.5rem",
+                "comment": "equal to 24px"
+            },
+            "70": {
+                "value": "2rem",
+                "comment": "equal to 32px"
+            },
+            "80": {
+                "value": "3rem",
+                "comment": "equal to 48px"
+            },
+            "90": {
+                "value": "3.125rem",
+                "comment": "equal to 50px"
+            },
+            "100": {
+                "value": "5rem",
+                "comment": "equal to 80px"
+            }
+        }
+    }
+}

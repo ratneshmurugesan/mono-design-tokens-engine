@@ -1,0 +1,18 @@
+{
+    "core": {
+        "media-query": {
+            "sm": {
+                "value": "only screen and (max-width: 47.9375em)"
+            },
+            "md": {
+                "value": "only screen and (min-width: 48em)"
+            },
+            "md-landscape": {
+                "value": "only screen and (min-width: 48em) and (min-aspect-ratio: 4/3)"
+            },
+            "lg": {
+                "value": "only screen and (min-width: 64.0625em)"
+            }
+        }
+    }
+}

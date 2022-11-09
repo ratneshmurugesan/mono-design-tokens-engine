@@ -1,0 +1,36 @@
+{
+    "core": {
+        "duration": {
+            "0": {
+                "value": "0s",
+                "type": "time",
+                "comment": "instantly"
+            },
+            "10": {
+                "value": "0.05s",
+                "type": "time",
+                "comment": "immediately"
+            },
+            "20": {
+                "value": "0.1s",
+                "type": "time",
+                "comment": "quickly"
+            },
+            "30": {
+                "value": "0.2s",
+                "type": "time",
+                "comment": "promptly"
+            },
+            "40": {
+                "value": "0.4s",
+                "type": "time",
+                "comment": "slowly"
+            },
+            "50": {
+                "value": "3.2s",
+                "type": "time",
+                "comment": "paused"
+            }
+        }
+    }
+}

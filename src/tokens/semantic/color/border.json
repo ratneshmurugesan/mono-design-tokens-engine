@@ -1,0 +1,11 @@
+{
+    "semantic": {
+        "color": {
+            "border": {
+                "primary": {
+                    "value": "{core.color.black.10.value}"
+                }
+            }
+        }
+    }
+}

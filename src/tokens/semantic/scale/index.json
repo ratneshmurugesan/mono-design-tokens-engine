@@ -1,0 +1,9 @@
+{
+    "semantic": {
+        "scale": {
+            "primary": {
+                "value": "{core.scale.90.value}"
+            }
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "core": {
+        "font": {
+            "family": {
+                "primary": {
+                    "value": ""
+                }
+            },
+            "size": {
+                "10": {
+                    "value": "0.5rem"
+                },
+                "20": {
+                    "value": "1rem"
+                },
+                "30": {
+                    "value": "2rem"
+                },
+                "40": {
+                    "value": "4rem"
+                },
+                "50": {
+                    "value": "6rem"
+                }
+            },
+            "weight": {
+                "10": {
+                    "value": 400
+                },
+                "20": {
+                    "value": 900
+                }
+            }
+        }
+    }
+}

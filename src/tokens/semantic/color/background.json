@@ -1,0 +1,11 @@
+{
+  "semantic": {
+    "color": {
+      "background": {
+        "primary": {
+          "value": "{core.color.gray.10.value}"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "semantic": {
+        "duration": {
+            "instant": {
+                "value": "{core.duration.0.value}"
+            },
+            "immediate": {
+                "value": "{core.duration.10.value}"
+            },
+            "quick": {
+                "value": "{core.duration.20.value}"
+            },
+            "prompt": {
+                "value": "{core.duration.30.value}"
+            },
+            "slow": {
+                "value": "{core.duration.40.value}"
+            },
+            "pause": {
+                "value": "{core.duration.50.value}"
+            }
+        }
+    }
+}

@@ -12,6 +12,12 @@
                 "color": {
                     "idle": {
                         "value": "{semantic.color.background.primary.value}"
+                    },
+                    "hovered": {
+                        "value": "{semantic.color.background.secondary.value}"
+                    },
+                    "focussed": {
+                        "value": "{semantic.color.background.secondary.value}"
                     }
                 }
             },
@@ -33,6 +39,16 @@
             "scale": {
                 "pressed": {
                     "value": "{semantic.scale.primary.value}"
+                }
+            },
+            "space": {
+                "idle": {
+                    "value": "{semantic.space.lg.inset.squish.value}"
+                }
+            },
+            "radius": {
+                "idle": {
+                    "value": "{semantic.radius.sm.value}"
                 }
             }
         }

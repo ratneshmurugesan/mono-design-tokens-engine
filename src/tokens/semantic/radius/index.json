@@ -1,0 +1,21 @@
+{
+    "semantic": {
+        "radius": {
+            "xs": {
+                "value": "{core.radius.10}"
+            },
+            "sm": {
+                "value": "{core.radius.20}"
+            },
+            "md": {
+                "value": "{core.radius.30}"
+            },
+            "lg": {
+                "value": "{core.radius.40}"
+            },
+            "xl": {
+                "value": "{core.radius.50}"
+            }
+        }
+    }
+}

@@ -20,7 +20,7 @@ jobs:
             dst_owner: ratneshmurugesan
             dst_repo_name: mono-universe
             dst_branch: develop
-            dst_path: "libs/frontend/shared/tokens"
+            dst_path: "libs/frontend/shared/design-system/src/lib"
             username: ratneshmurugesan
             email: ratnesh.one@gmail.com
             commit_message: Update design tokens by mono-design-tokens-engine

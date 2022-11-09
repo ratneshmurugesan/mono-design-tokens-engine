@@ -1,0 +1,13 @@
+{
+    "semantic": {
+        "space": {
+            "lg": {
+                "inset": {
+                    "squish": {
+                        "value": "{core.space.90}"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -3,7 +3,10 @@
     "color": {
       "background": {
         "primary": {
-          "value": "{core.color.gray.10.value}"
+          "value": "{core.color.gradient.10.value}"
+        },
+        "secondary": {
+          "value": "{core.color.gradient.20.value}"
         }
       }
     }

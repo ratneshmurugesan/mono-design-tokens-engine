@@ -2,16 +2,19 @@
     "core": {
         "media-query": {
             "sm": {
-                "value": "only screen and (max-width: 47.9375em)"
+                "value": "600px"
             },
             "md": {
-                "value": "only screen and (min-width: 48em)"
+                "value": "960px"
             },
             "md-landscape": {
-                "value": "only screen and (min-width: 48em) and (min-aspect-ratio: 4/3)"
+                "value": "768px"
             },
             "lg": {
-                "value": "only screen and (min-width: 64.0625em)"
+                "value": "1280px"
+            },
+            "xl": {
+                "value": "1920px"
             }
         }
     }

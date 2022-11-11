@@ -48,7 +48,7 @@
             },
             "radius": {
                 "idle": {
-                    "value": "{semantic.radius.sm.value}"
+                    "value": "{semantic.radius.md.value}"
                 }
             }
         }

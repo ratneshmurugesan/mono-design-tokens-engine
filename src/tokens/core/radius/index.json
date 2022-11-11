@@ -2,19 +2,19 @@
     "core": {
         "radius": {
             "10": {
-                "value": "0.125rem"
+                "value": "0%"
             },
             "20": {
-                "value": "0.25rem"
+                "value": "25%"
             },
             "30": {
-                "value": "0.50rem"
+                "value": "50%"
             },
             "40": {
-                "value": "0.75rem"
+                "value": "75%"
             },
             "50": {
-                "value": "1rem"
+                "value": "100%"
             }
         }
     }
